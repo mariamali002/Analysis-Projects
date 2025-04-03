@@ -8,7 +8,7 @@ Welcome to my collection of data analysis projects! In this repository, I showca
    - **Description:** This project involves analyzing pizza sales data using SQL queries. The goal was to uncover trends in customer preferences, sales patterns, and overall performance of various pizza products.
   
 
-2. **Project 2: [HR Analysis]((https://github.com/mariamali002/Data_Analysis-Projects/tree/main/P2))**
+2. **Project 2: [HR Analysis](https://github.com/mariamali002/Data_Analysis-Projects/tree/main/P2))**
    - **Description:** In this project, I analyzed HR data to gain insights into employee turnover, satisfaction, and hiring trends. The analysis includes factors like tenure, department, and job satisfaction to predict employee attrition.
    
 

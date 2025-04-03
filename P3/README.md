@@ -15,3 +15,6 @@ Casualties by Road Type for Current year
 Current Year Casualties by Area/Location & by Day/Night
 
 Total Casualties and Total Accidents by Location
+
+# Project
+![image](https://github.com/user-attachments/assets/8117af26-5cb8-4aaa-b6c4-7908bbbd13c9)

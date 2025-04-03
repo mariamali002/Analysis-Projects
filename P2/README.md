@@ -18,3 +18,9 @@ The organization lacks a mechanism to differentiate between active and inactive 
 # Average Age:
 The HR department lacks visibility into the average age of employees, making it difficult to evaluate workforce demographics, succession planning, and the organization's ability to attract and retain younger talent.
 
+
+# PowerBi
+![PowerBi](https://github.com/user-attachments/assets/ab06ca21-dd14-4d6c-8cb1-c55ab771591a)
+
+#Tabluea
+![image](https://github.com/user-attachments/assets/4781158c-a0c9-4d4b-9afa-62a11f31d8a8)
